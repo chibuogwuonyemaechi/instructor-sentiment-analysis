@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Data & logs
+*.log
+*.csv
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Power BI files
+*.pbix
+
+# Streamlit secrets or configs
+.env
+
+# VSCode or IDE folders
+.vscode/
+.idea/
+.DS_Store
