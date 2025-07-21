@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Last Commit](https://img.shields.io/github/last-commit/chibuogwuonyemaechi/instructor-sentiment-analysis)
+![Status](https://img.shields.io/badge/status-completed-brightgreen)
+
+
 # 📊 Instructor Engagement Dashboard using Sentiment Analysis
 
 ## 🧩 Project Overview
